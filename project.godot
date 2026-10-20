@@ -1,0 +1,29 @@
+config_version=5
+
+[application]
+config/name="DEADSHIFT: VANCOUVER OUTBREAK"
+run/main_scene="res://main.tscn"
+run/max_fps=60
+config/features=PackedStringArray("4.3", "Forward Plus")
+
+[rendering]
+renderer/rendering_method="forward_plus"
+renderer/rendering_method.mobile="mobile"
+textures/default_filters/use_nearest_mipmap_filter=false
+anti_aliasing/quality/use_taa=true
+lights_and_shadows/directional_shadow/size=2048
+environment/volumetric_fog/volume_size=64
+environment/volumetric_fog/volume_depth=64
+
+[display]
+window/size/viewport_width=1280
+window/size/viewport_height=720
+window/stretch/mode="canvas_items"
+window/size/window_width_override=1280
+window/size/window_height_override=720
+
+[physics]
+3d/default_gravity=24.0
+
+[audio]
+driver/enable_input=false

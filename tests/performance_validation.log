@@ -1,0 +1,7 @@
+Godot Engine v4.3.stable.official.77dcf97d8 - https://godotengine.org
+OpenGL API 4.1 Metal - 90.5 - Compatibility - Using Device: Apple - Apple M1 Pro
+
+DEVICE: Apple M1 Pro
+VIEWPORT: (1280, 720)
+PROFILE BALANCED | avg FPS 60.0048852210088 | p95 frame ms 21.034 | draw calls 882 | static memory MiB 37.6085710525513
+PROFILE LOW | avg FPS 57.760424977005 | p95 frame ms 17.554 | draw calls 631 | static memory MiB 37.0346040725708

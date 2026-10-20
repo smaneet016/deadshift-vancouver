@@ -1,0 +1,48 @@
+Godot Engine v4.3.stable.official.77dcf97d8 - https://godotengine.org
+Vulkan 1.2.283 - Forward+ - Using Device #0: Apple - Apple M1 Pro
+
+PASS: player lands on downtown pavement
+PASS: original starting health and ammo
+PASS: spawn is clear: (-11, 0.1, -26)
+PASS: spawn reaches initial player: (-11, 0.1, -26)
+PASS: spawn is clear: (11, 0.1, -26)
+PASS: spawn reaches initial player: (11, 0.1, -26)
+PASS: spawn is clear: (-12, 0.1, 25)
+PASS: spawn reaches initial player: (-12, 0.1, 25)
+PASS: spawn is clear: (12, 0.1, 25)
+PASS: spawn reaches initial player: (12, 0.1, 25)
+PASS: spawn is clear: (-17, 0.1, 0)
+PASS: spawn reaches initial player: (-17, 0.1, 0)
+PASS: spawn is clear: (17, 0.1, 0)
+PASS: spawn reaches initial player: (17, 0.1, 0)
+PASS: all 2497 walkable grid cells connect to arena
+PASS: low graphics budget
+PASS: balanced graphics budget
+PASS: mouse look rotates player and camera
+PASS: W walks forward
+PASS: Shift sprints
+PASS: Space jumps from pavement
+PASS: jump lands back on solid pavement
+PASS: wave one spawns five enemies
+PASS: real hitscan damages zombie and spends exactly one round
+PASS: fire cooldown prevents duplicate shot
+PASS: cannot shoot during reload
+PASS: timed reload refills magazine
+PASS: barrier blocks melee attack
+PASS: unobstructed zombie contact damages player
+PASS: zombie attack cooldown retained
+PASS: zombie physically routes around bus to player
+PASS: last enemy clears wave exactly once
+PASS: automatic upgrade preserves damage, magazine and fire rate math
+PASS: upgrade reloads and visibly scales original gun
+PASS: upgrade HUD displays actual stat change
+PASS: duplicate clear check cannot grant extra upgrade
+PASS: wave two automatically starts with seven enemies
+PASS: death releases mouse and ends gameplay
+PASS: dead player cannot fire
+PASS: Enter reloads level and resets player state
+PASS: wave 12 caps live actors at 24 and preserves all 27 enemies
+PASS: queued enemy spawns when an active slot opens
+PASS: queued enemies prevent premature wave completion
+PASS: large wave completes and upgrades after every queued enemy dies
+RESULT: 44 checks, 0 failures

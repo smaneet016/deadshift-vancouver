@@ -1,0 +1,7 @@
+Godot Engine v4.3.stable.official.77dcf97d8 - https://godotengine.org
+Vulkan 1.2.283 - Forward+ - Using Device #0: Apple - Apple M1 Pro
+
+DEVICE: Apple M1 Pro
+VIEWPORT: (1280, 720)
+PROFILE BALANCED | avg FPS 59.950795384688 | p95 frame ms 17.284 | draw calls 1972 | static memory MiB 104.296794891357
+PROFILE LOW | avg FPS 59.9427396979036 | p95 frame ms 18.244 | draw calls 969 | static memory MiB 104.107624053955

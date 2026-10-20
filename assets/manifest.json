@@ -1,0 +1,74 @@
+[
+  {
+    "asset": "asphalt_02",
+    "source": "https://polyhaven.com/a/asphalt_02",
+    "license": "CC0",
+    "resolution": "2k"
+  },
+  {
+    "asset": "brick_wall_04",
+    "source": "https://polyhaven.com/a/brick_wall_04",
+    "license": "CC0",
+    "resolution": "2k"
+  },
+  {
+    "asset": "concrete_wall_006",
+    "source": "https://polyhaven.com/a/concrete_wall_006",
+    "license": "CC0",
+    "resolution": "2k"
+  },
+  {
+    "asset": "rusty_metal_02",
+    "source": "https://polyhaven.com/a/rusty_metal_02",
+    "license": "CC0",
+    "resolution": "2k"
+  },
+  {
+    "asset": "concrete_road_barrier",
+    "source": "https://polyhaven.com/a/concrete_road_barrier",
+    "license": "CC0",
+    "resolution": "1k"
+  },
+  {
+    "asset": "fire_hydrant",
+    "source": "https://polyhaven.com/a/fire_hydrant",
+    "license": "CC0",
+    "resolution": "1k"
+  },
+  {
+    "asset": "trashbag",
+    "source": "https://polyhaven.com/a/trashbag",
+    "license": "CC0",
+    "resolution": "1k"
+  },
+  {
+    "asset": "metal_trash_can",
+    "source": "https://polyhaven.com/a/metal_trash_can",
+    "license": "CC0",
+    "resolution": "1k"
+  },
+  {
+    "asset": "street_lamp_01",
+    "source": "https://polyhaven.com/a/street_lamp_01",
+    "license": "CC0",
+    "resolution": "1k"
+  },
+  {
+    "asset": "modular_urban_apartments_facade",
+    "source": "https://polyhaven.com/a/modular_urban_apartments_facade",
+    "license": "CC0",
+    "resolution": "1k"
+  },
+  {
+    "asset": "modular_fire_escape",
+    "source": "https://polyhaven.com/a/modular_fire_escape",
+    "license": "CC0",
+    "resolution": "1k"
+  },
+  {
+    "asset": "rollershutter_door",
+    "source": "https://polyhaven.com/a/rollershutter_door",
+    "license": "CC0",
+    "resolution": "1k"
+  }
+]
