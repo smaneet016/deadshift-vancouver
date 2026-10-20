@@ -1,5 +1,7 @@
 # DEADSHIFT: VANCOUVER OUTBREAK
 
+A first-person zombie survival shooter built with Godot 4, set in a post-apocalyptic Vancouver. Survive escalating waves, earn automatic weapon upgrades, and fight through atmospheric downtown streets with rain, fog, and neon lighting.
+
 One playable downtown / False Creek zombie-survival block in **Godot 4.3+**. The visual upgrade replaces the flat blockout presentation with downloaded CC0 PBR materials, modular architectural assets, detailed props and Forward+ lighting/reflections.
 
 ## Play
